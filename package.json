@@ -1,16 +1,16 @@
 {
-"name": "ag888",
-"theme": "ag888",
-"version": "2.4.1",
-"description": "ag888 สมัครสมาชิกเว็บไซต์พนันเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"ag888",
-"ag888 เครดิตฟรี",
-"ag888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ag888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ag888",
+  "theme": "ag888",
+  "version": "2.5.0",
+  "description": "ag888 สมัครสมาชิกเว็บไซต์พนันเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "ag888",
+    "ag888 เครดิตฟรี",
+    "ag888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ag888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
